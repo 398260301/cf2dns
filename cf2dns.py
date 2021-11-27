@@ -37,8 +37,8 @@ TTL = 600
 #API 密钥
 #腾讯云后台获取 https://console.cloud.tencent.com/cam/capi
 #阿里云后台获取 https://help.aliyun.com/document_detail/53045.html?spm=a2c4g.11186623.2.11.2c6a2fbdh13O53  注意需要添加DNS控制权限 AliyunDNSFullAccess
-SECRETID = 'AKIDQfdLm58vRfdKktmOkqfDUTBdohJfjW2I'
-SECRETKEY = 'z7yYrtd6JFtGNDn68uPecJjriIabLo1w'
+SECRETID = '12121212'
+SECRETKEY = '121212'
 
 log_cf2dns = Logger('cf2dns.log', level='debug') 
 urllib3.disable_warnings()
